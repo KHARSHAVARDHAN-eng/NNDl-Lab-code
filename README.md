@@ -42,9 +42,6 @@ MobileNetV2 is used as a pre-trained model with fine-tuning. Only top layers are
 ### 10. Real-Time Object Detection (YOLO)
 YOLO is used for detecting objects in real-time video streams. The model processes frames in a single pass and outputs bounding boxes with confidence scores and FPS.
 
-### 11. (Not Included)
-The GAN (Generative Adversarial Network) experiment is not included in this repository.
-
 ### 12. Time Series Forecasting (LSTM)
 An LSTM model is trained on sequential data to forecast future values. Data is scaled and reshaped appropriately. Model performance is evaluated using MAE and RMSE.
 
